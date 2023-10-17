@@ -1,16 +1,18 @@
 Разработка десктопной версии мессенджера
 
 Use-case диаграмма по запросам пользователей:
-[]!(https://raw.githubusercontent.com/AlexandraPirog/Architecture_10sem/main/UseCase10.png)
+[]!(https://github.com/AlexandraPirog/Architecture_12sem/blob/main/UseCase10.png)
 
 UML диаграмма: 
-[]!(https://raw.githubusercontent.com/AlexandraPirog/Architecture_10sem/main/umlMassager.png)
+[]!(https://github.com/AlexandraPirog/Architecture_12sem/blob/main/umlMassager.png)
+кое-что по uml я доделывала
+[]!(https://github.com/AlexandraPirog/Architecture_12sem/blob/main/%D0%BC%D0%B5%D1%81%D1%81%D0%B5%D0%B4%D0%B6%D0%B5%D1%80.png)
 
 ER- диаграмма:
-[]!(https://raw.githubusercontent.com/AlexandraPirog/Architecture_10sem/main/Massager10.png)
+[]!(https://github.com/AlexandraPirog/Architecture_12sem/blob/main/Massager10.png)
 
 Разработанный интерфейс:
-[]!(https://raw.githubusercontent.com/AlexandraPirog/try_chatterbox/master/Chatterbox.png)
+[]!(https://github.com/AlexandraPirog/Architecture_12sem/blob/main/Chatterbox.png)
 
 Ссылка на реализованный код: https://github.com/AlexandraPirog/try_chatterbox
 
