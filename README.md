@@ -6,21 +6,29 @@ Use-case диаграмма по запросам пользователей:
 
 
 UML диаграмма:
+
+
 ![](https://raw.githubusercontent.com/AlexandraPirog/Architecture_12sem/main/umlMassager.png) 
 
 
 
 кое-что по uml я доделывала 
+
+
 ![](https://raw.githubusercontent.com/AlexandraPirog/Architecture_12sem/main/%D0%BC%D0%B5%D1%81%D1%81%D0%B5%D0%B4%D0%B6%D0%B5%D1%80.png)
 
 
 
 ER- диаграмма: 
+
+
 ![](https://raw.githubusercontent.com/AlexandraPirog/Architecture_12sem/main/Massager10.png)
 
 
 
 Разработанный интерфейс: 
+
+
 ![](https://raw.githubusercontent.com/AlexandraPirog/Architecture_12sem/main/Chatterbox.png)
 
 
